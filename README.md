@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaydm2
 - 👀 I’m interested in the human mind and computers
-- 🌱 I’m currently learning cs50 
+- 🌱 Vibecoding ;)
 - 📫 How to reach me - Email: zaydmustafa03@gmail.com
 
 <!---
